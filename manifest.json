@@ -30,7 +30,8 @@
 
 	"permissions": [
 		"tabs",
-		"storage"
+		"storage",
+		"file:///*"
 	],
 
 	"manifest_version": 2
