@@ -1,7 +1,7 @@
 {
 	"name": "New Tab URL",
 	"description": "Use a custom URL as the New Tab page without losing address bar focus",
-	"version": "0.1.1",
+	"version": "0.1.2",
 
 	"chrome_url_overrides": {
 		"newtab": "new-tab.html"
